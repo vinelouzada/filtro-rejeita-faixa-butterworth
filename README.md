@@ -8,3 +8,6 @@ Nesse trabalho, será abordado como uma imagem digital é formada e como funcion
 ## Objetivos
 * Aplicar os conceitos teóricos da disciplina Processamento Digital de Sinais (PDS) na prática
 * Aplicar o Filtro Rejeita Notch Butterworh para remover ruídos de periódicos de uma imagem
+
+
+**Confira o resultado no arquivo: Trabalho_Prático_PDS.ipynb**
